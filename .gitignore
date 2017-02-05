@@ -5,6 +5,8 @@ npm-debug.log*
 
 #environment variables from dotenv
 *.env
+ebayreturn.json
+amazon.xml
 
 # Runtime data
 pids
